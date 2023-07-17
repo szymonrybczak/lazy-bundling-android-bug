@@ -11,14 +11,14 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.72.3"
+    "react-native": "^0.73.0-nightly-20230716-8ab9a7767"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
     "@babel/preset-env": "^7.20.0",
     "@babel/runtime": "^7.20.0",
-    "@react-native/eslint-config": "^0.72.2",
-    "@react-native/metro-config": "^0.72.9",
+    "@react-native/eslint-config": "^0.73.0-nightly-20230716-8ab9a7767",
+    "@react-native/metro-config": "^0.73.0-nightly-20230716-8ab9a7767",
     "@tsconfig/react-native": "^3.0.0",
     "@types/react": "^18.0.24",
     "@types/react-test-renderer": "^18.0.0",
